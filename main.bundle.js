@@ -19,7 +19,7 @@ var _expressHandlebars2 = _interopRequireDefault(_expressHandlebars);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 
-var PORT = process.env.PORT || 8081; // Set Default Port for Express and Heroku
+var PORT = process.env.PORT || 8080; // Set Default Port for Express and Heroku
 // Http Requests
 // Express Server
 var app = (0, _express2.default)(); // Initialize Express
