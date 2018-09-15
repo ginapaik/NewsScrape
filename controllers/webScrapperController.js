@@ -8,7 +8,7 @@ mongoose.Promise = Promise; // Set mongoose to leverage Built in JavaScript ES6 
 
 
 // for remote heroku db
-// mongoose.connect("mongodb://heroku_mvvljwwp:mongo12345@ds157742.mlab.com:57742/heroku_mvvljwwp", { // Connect to the Mongo DB
+// mongoose.connect("mongodb://heroku_mvvljwwp:PAssworD@ds157742.mlab.com:57742/heroku_mvvljwwp", { // Connect to the Mongo DB
 //   useMongoClient: true
 // });
 
