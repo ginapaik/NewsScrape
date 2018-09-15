@@ -10,7 +10,7 @@ var db = require("./models"); // Require all models
 
 /////////////////////////////////////////////// /* Set Up Variables*/ //////////////////////////////////////////////////////////
 
-let PORT = process.env.PORT || 8080; // Set Default Port for Express and Heroku
+let PORT = process.env.PORT || 8081; // Set Default Port for Express and Heroku
 let app = express(); // Initialize Express
 
 /////////////////////////////////////////////// /* Configure middleware */ //////////////////////////////////////////////////////////
