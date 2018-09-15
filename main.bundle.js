@@ -18,16 +18,7 @@ var _expressHandlebars2 = _interopRequireDefault(_expressHandlebars);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-// Templating Engine
 
-// import cheerio from 'cheerio'; // Web Scrapper
-// import mongoose from 'mongoose'; // MongoDB ORM
-// import db from "./models"; // Require all models
-
-/////////////////////////////////////////////// /* Set Up Variables*/ //////////////////////////////////////////////////////////
-
-// Post Body Request
-//////////////////////////////////////////////// /* Imports */ //////////////////////////////////////////////////////////
 var PORT = process.env.PORT || 8080; // Set Default Port for Express and Heroku
 // Http Requests
 // Express Server
