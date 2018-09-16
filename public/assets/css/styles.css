@@ -13,4 +13,13 @@ h4{
   .hover:hover{
       background-color: rgba(0,0,0,0.5);
   }
-  
+
+body {
+    background-image: url("../images/light-veneer.png");
+
+}
+
+h3 {
+    padding-top: 200px;
+    color: #576b72;
+}
